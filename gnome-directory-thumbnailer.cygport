@@ -1,9 +1,11 @@
 inherit gnome2
 
 NAME="gnome-directory-thumbnailer"
-VERSION=0.1.4
+VERSION=0.1.6
 RELEASE=1
 CATEGORY="GNOME"
 SUMMARY="Directory thumbnailer"
 DESCRIPTION="A thumbnailer for EPub and MOBI books for GNOME and MATE file
 managers."
+
+DIFF_EXCLUDES="ax_*.m4"
