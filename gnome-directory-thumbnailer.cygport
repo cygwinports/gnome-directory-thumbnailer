@@ -1,7 +1,7 @@
 inherit gnome2
 
 NAME="gnome-directory-thumbnailer"
-VERSION=0.1.9
+VERSION=0.1.10
 RELEASE=1
 CATEGORY="GNOME"
 SUMMARY="Directory thumbnailer"
